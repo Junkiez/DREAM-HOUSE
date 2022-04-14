@@ -1,5 +1,7 @@
 # Dream-House
 
+![screenshot](src/assets/screenshot.png)
+
 ## Project setup
 ```
 npm install
